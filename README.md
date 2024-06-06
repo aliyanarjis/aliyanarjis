@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliyanarjis
 - 👀 I’m interested in Coding & Maths
-- 🌱 I’m currently learning Coding
+- 🌱 I’m a junior mern stack developer
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me @aliyanarjis
 
